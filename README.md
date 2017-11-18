@@ -58,7 +58,7 @@ Santa Clara University is a top ranked school with a resonably higher tuition fe
 
 Fig 1.1 is a Tableau bar chart for comparing and contrasting the tuition fees and rankings of different regional universities in California. The yellow color bar charts show that SCU has as higher tuition fees than the other universities. However, the blue line shows the rankings of the schools, and we can see that SCU is a top ranked university at Rank 2. Therefore, a greater benefit of decent ranking of the SCU MSIS program outweight the cost of attending the school. We can also see that San Jose State University is another good pragram as it has a reasonable low tution fees being a public university and its ranking is better as compared to other expensive programs
                                            
-<img width="943" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32977550-39c52858-cbe4-11e7-8a45-f74443d2a249.png">
+<img width="943" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32984100-65da7f72-cc54-11e7-94cb-c7083364bc10.png">
 
                                  Fig 1.2 Ranking vs Acceptance rate of California Schools
                                  
@@ -82,7 +82,6 @@ We can see from Fig 1.2 that SCU has a decent ranking 2 in the group with other 
  
  The Tableau scatter plot in Fig 1.3 shows the comparison of ranking and student-faculty ratio of the uiniversities used in our assumption. We can analyze from the visual that SCU is a top ranked program at rank 2 and also has a decently lower student-faculty ratio of 11%. This buttefly chart designed in Tableau is very effective and straightforward for the intended audience of prospective MSIS studently to visually compare and contrast SCU MSIS program with the other regional universities.
  
- <img width="571" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32977552-39f6f3f6-cbe4-11e7-8b5b-e76acf34a32f.png">
  
                                  Fig 1.4 SCU MSIS Metrics Dashboard
                                  
