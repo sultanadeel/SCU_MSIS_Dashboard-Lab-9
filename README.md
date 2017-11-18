@@ -70,7 +70,7 @@ Despite being a top ranked school, Santa Clara University has a higher acceptanc
 
 We can see from Fig 1.2 that SCU has a decent ranking 2 in the group with other universities, and still have a moderately high acceptance rate of 50%. Some of the universities like Cal State - Long Beach has an acceptance rate much lower than their ranking. This might be because of the location feature of the university as in bigger cities like Los Angeles, the population affects the no.of applicants so much so that the university has to deliberately lower the acceptance rate in order to accomodate only a feasible no.of students at the university facility. 
                                           
-<img width="532" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32984002-becf35ca-cc52-11e7-933e-6d6818afbc80.png">
+<img width="514" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32984034-2caeb93a-cc53-11e7-9aff-f7c8b59b2f19.png">
 
                                  Fig 1.3 Ranking vs Student-Faculty Ratio
                                  
