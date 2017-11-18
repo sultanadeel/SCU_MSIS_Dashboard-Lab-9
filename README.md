@@ -9,6 +9,10 @@ https://public.tableau.com/profile/muhammad.adeel3420#!/vizhome/SCU_MSIS_Metrics
 
 In this redesign assignment, we aspire to create more pursuasive and easy to understand visualizations for the metrics developed for prospective SCU MSIS students. The main idea that we are incorporating in this redesign assignment is to integrate some of the important metrics for the intended audience to compare and contrast different measures while choosing Santa Clara University over other California Schools
 
+# Arguments Model (Claim):
+
+Our main claim in this redesign project is to pursuade a prospective MSIS student that Santa Clara University is a good program for him/her and despite being little expensive, the program offers great opportunities to pursue a successful career in Silicon Valley, California
+
 # Goals
 
 The goal is to provide the audience a privilege to easily compare and contrast the MSIS programs provided by a group of universities in 
