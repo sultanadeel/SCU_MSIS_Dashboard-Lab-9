@@ -15,7 +15,7 @@ The goal is to provide the audience a privilege to easily compare and contrast t
 California. Another goal as a designer of visualizations on behalf of Santa Clara University is to use valid and supportive arguments to
 make SCU stand out against other universities in the region using various factors.
 
-# Question
+# Questions
 
 Audience is interested in fing out which program is suitable for their specific objectives. Which graduate school best meet their requirements and characteristics to pursue MSIS degree
 
@@ -80,5 +80,8 @@ We can see from Fig 1.2 that SCU has a decent ranking 2 in the group with other 
  <img width="571" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32977552-39f6f3f6-cbe4-11e7-8b5b-e76acf34a32f.png">
  
                                  Fig 1.4 SCU MSIS Metrics Dashboard
+                                 
+ We can analyze from the above several visualizations that integrating the metrics in a single Tableau visual is quite effective for the audience to compare and contrast several features of their expected goals. Santa Clara University stands out in all the above visuals and a prospective MSIS student can easily note that difference
+ 
                                  
                                  
