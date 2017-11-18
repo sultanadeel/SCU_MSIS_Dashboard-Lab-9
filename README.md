@@ -70,9 +70,9 @@ Despite being a top ranked school, Santa Clara University has a higher acceptanc
 
 We can see from Fig 1.2 that SCU has a decent ranking 2 in the group with other universities, and still have a moderately high acceptance rate of 50%. Some of the universities like Cal State - Long Beach has an acceptance rate much lower than their ranking. This might be because of the location feature of the university as in bigger cities like Los Angeles, the population affects the no.of applicants so much so that the university has to deliberately lower the acceptance rate in order to accomodate only a feasible no.of students at the university facility. 
                                           
- <img width="943" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32977551-39dd2ce6-cbe4-11e7-847f-eb888a45e7c5.png">
- 
-                                 Fig 1.3 Butterfly Chart; Ranking vs Student-Faculty Ratio
+<img width="532" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32984002-becf35ca-cc52-11e7-933e-6d6818afbc80.png">
+
+                                 Fig 1.3 Ranking vs Student-Faculty Ratio
                                  
  # Claim
  
@@ -80,7 +80,7 @@ We can see from Fig 1.2 that SCU has a decent ranking 2 in the group with other 
  
  # Warrant
  
- The Tableau Butterfly chart in Fig 1.3 shows the comparison of ranking and student-faculty ratio of the uiniversities used in our assumption. We can analyze from the visual that SCU is a top ranked program at rank 2 and also has a decently lower student-faculty ratio of 11%. This buttefly chart designed in Tableau is very effective and straightforward for the intended audience of prospective MSIS studently to visually compare and contrast SCU MSIS program with the other regional universities.
+ The Tableau scatter plot in Fig 1.3 shows the comparison of ranking and student-faculty ratio of the uiniversities used in our assumption. We can analyze from the visual that SCU is a top ranked program at rank 2 and also has a decently lower student-faculty ratio of 11%. This buttefly chart designed in Tableau is very effective and straightforward for the intended audience of prospective MSIS studently to visually compare and contrast SCU MSIS program with the other regional universities.
  
  <img width="571" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32977552-39f6f3f6-cbe4-11e7-8b5b-e76acf34a32f.png">
  
