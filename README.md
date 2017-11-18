@@ -45,9 +45,10 @@ For integrating the metrics and making it easier for student audience to compare
 
 # Tableau Visualizations
 
-<img width="943" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32977549-39ae603c-cbe4-11e7-9549-4e8042b80605.png">
 
-                                 Fig 1.1 Tuition Fees vs Ranking comparison of California Schools
+<img width="943" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32983687-76fd0aa6-cc4d-11e7-9ee9-5abdc40da2fe.png">
+                                
+                                Fig 1.1 Tuition Fees vs Ranking comparison of California Schools
                                  
 # Claim   
 
