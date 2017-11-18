@@ -86,6 +86,8 @@ We can see from Fig 1.2 that SCU has a decent ranking 2 in the group with other 
  
                                  Fig 1.4 Ranking vs Average starting Salary
                                  
+ Fig 1.4 shows the scatterplot for comparing rankings with average starting salaries of different universities. We can see that SCU has a higher ranking and a decent starting salary.
+ 
  We can analyze from the above several visualizations that integrating the metrics in a single Tableau visual is quite effective for the audience to compare and contrast several features of their expected goals. Santa Clara University stands out in all the above visuals and a prospective MSIS student can easily note that difference
  
                                  
