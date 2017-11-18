@@ -43,12 +43,20 @@ For integrating the metrics and making it easier for student audience to compare
 
 <img width="943" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32977549-39ae603c-cbe4-11e7-9549-4e8042b80605.png">
 
-                                           Fig 1.1 Tuition Fees vs Ranking comparison of California Schools
+                                 Fig 1.1 Tuition Fees vs Ranking comparison of California Schools
+                                 
+# Claim   
+
+Santa Clara University is a top ranked school with a resonably higher tuition fees
+
+# Warrant
+
+Fig 1.1 is a Tableau bar chart for comparing and contrasting the tuition fees and rankings of different regional universities in California. The yellow color bar charts show that SCU has as higher tuition fees than the other universities. However, the blue line shows the rankings of the schools, and we can see that SCU is a top ranked university at Rank 2. Therefore, a greater benefit of decent ranking of the SCU MSIS program outweight the cost of attending the school. We can also see that San Jose State University is another good pragram as it has a reasonable low tution fees being a public university and its ranking is better as compared to other expensive programs
                                            
 <img width="943" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32977550-39c52858-cbe4-11e7-8a45-f74443d2a249.png">
 
-                                          Fig 1.2 Ranking vs Acceptance rate of California Schools
+                                 Fig 1.2 Ranking vs Acceptance rate of California Schools
                                           
  <img width="943" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32977551-39dd2ce6-cbe4-11e7-847f-eb888a45e7c5.png">
  
-                                          Fig 1.3 Butterfly Chart; Ranking vs Student-Faculty Ratio
+                                 Fig 1.3 Butterfly Chart; Ranking vs Student-Faculty Ratio
