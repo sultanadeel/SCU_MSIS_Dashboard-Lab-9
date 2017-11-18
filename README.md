@@ -24,7 +24,13 @@ Prospective students evaluate number of different alternatives and options while
 For integrating the metrics and making it easier for student audience to compare and contrast, we selected a group of universities as follows:
 
 ## 1. San Jose State University
-## 2. CaliforniaAcceptance Rates
-## 3.	Student-faculty Ratio
-## 4.	Tuition Fees
-## 5.	Employment Opportunities after graduation
+## 2. California Polytechnic University
+## 3.	California State University - Long Beach
+## 4.	California State University - Chico
+## 5.	Santa Clara University
+
+# Tableau Visualizations
+
+<img width="943" alt="lab9" src="https://user-images.githubusercontent.com/31932632/32977549-39ae603c-cbe4-11e7-9549-4e8042b80605.png">
+
+                                       Fig 1.1 Tuition Fees vs Ranking comparison of California Schools
