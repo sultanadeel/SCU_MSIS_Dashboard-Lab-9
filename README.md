@@ -82,7 +82,7 @@ We can see from Fig 1.2 that SCU has a decent ranking 2 in the group with other 
  
  The Tableau scatter plot in Fig 1.3 shows the comparison of ranking and student-faculty ratio of the uiniversities used in our assumption. We can analyze from the visual that SCU is a top ranked program at rank 2 and also has a decently lower student-faculty ratio of 11%. This buttefly chart designed in Tableau is very effective and straightforward for the intended audience of prospective MSIS studently to visually compare and contrast SCU MSIS program with the other regional universities.
  
- https://github.com/sultanadeel/SCU_MSIS_Dashboard-Lab-9/blob/master/README.md
+ <img width="944" alt="lab9 1" src="https://user-images.githubusercontent.com/31932632/32984211-18afd208-cc57-11e7-99f9-f5246acf6f02.png">
  
                                  Fig 1.4 Ranking vs Average starting Salary
                                  
